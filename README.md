@@ -1,2 +1,3 @@
-# Assitan-Diakite
+# Hello-world
 First repository by me
+Assitan Diakite 
